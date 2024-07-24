@@ -44,7 +44,9 @@
 .justify-content-between {
     justify-content: space-between;
 }
-
+.justify-content-center {
+    justify-content: center;
+}
 .gap-30 {
     gap: 30px;
 }
@@ -112,6 +114,7 @@
     text-align: center;
     color: #1E71FF;
     cursor: pointer;
+    white-space: nowrap;
 }
 
 .heading {
@@ -146,6 +149,7 @@
     line-height: 18.75px;
     text-align: center;
     cursor: pointer;
+    white-space: nowrap;
 }
 
 .gap-36 {
@@ -177,6 +181,7 @@
     color: #2B353EB2;
     padding-top: 30px;
     padding-bottom: 60px; 
+   
 }
 
 .background-color {
