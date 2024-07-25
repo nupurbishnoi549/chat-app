@@ -112,7 +112,7 @@
     border: 2px solid #FFFFFF;
     background-color: #FFFFFF;
     padding: 16px 48px;
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 500;
     line-height: 18.75px;
@@ -172,32 +172,6 @@
 
 /*----------common class over------------*/
 
-/*----------gap class----------------*/
-.gap-30 {
-    gap: 30px;
-}
-
-.gap-36 {
-    gap: 36px;
-}
-
-/*----------gap class over------------*/
-
-/*----------margin class--------------*/
-.mt-100 {
-    margin-top: 90px;
-}
-
-.mb-40 {
-    margin-bottom: 40px;
-}
-
-.mb-50 {
-    margin-bottom: 50px;
-}
-
-/*----------margin class over---------*/
-
 /*----------padding----------------------*/
 .py-35 {
     padding-top: 35px;
@@ -218,6 +192,32 @@
 }
 
 /*----------padding over------------------*/
+
+/*----------margin class--------------*/
+.mt-100 {
+    margin-top: 90px;
+}
+
+.mb-40 {
+    margin-bottom: 40px;
+}
+
+.mb-50 {
+    margin-bottom: 50px;
+}
+
+/*----------margin class over---------*/
+
+/*----------gap class----------------*/
+.gap-30 {
+    gap: 30px;
+}
+
+.gap-36 {
+    gap: 36px;
+}
+
+/*----------gap class over------------*/
 
 /*----------section2-----------------*/
 .team-chats {
@@ -396,7 +396,7 @@
     width: 100%;
     padding-left: 12px;
     padding-right: 12px;
-    
+
 }
 
 @media(max-width:576px) {
